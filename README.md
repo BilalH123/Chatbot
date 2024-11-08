@@ -10,7 +10,9 @@ Key Functionalities: Search Bar,
 
 # Key functionalities
 -Connect with a chatbot to assist with common IT queries.
+
 -The chatbot analyses keywords used in your message to deliever appropiate responses
+
 -Chatbot assists with a variety of topics in IT such as: security and password resetting.
 -Chabot project contains a sleek, minimalistic user interface where users message the chatbot and obtain responses
 -Chatbot contains a search bar for entering questions/messages and a section where messages will be shown both for the user and the chatbot.
