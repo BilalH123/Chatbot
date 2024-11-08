@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Chatbot</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/chatbot.css') }}">
+    <script src="{{ url_for('static', filename='js/chatbot.js') }}" defer></script>
+</head>
+<body> 
+    <!--Container-->
+    <div class="container">
+        <h1>Simple Chatbot</h1>
+        <p class="lead">Use this chatbot to help with common issues.</p>
+
+        <div id="response">
+            <div id="typing-indicator">Bot is typing<span class="dot">.</span><span class="dot">.</span><span class="dot">.</span></div>
+        </div>
+    <!--User enters a question and obtains a response from the chatbot-->
+        <form id="chatForm">
+            <div class="form-group">
+                <input type="text" id="question" class="form-control" placeholder="Ask a question..." required>
+            </div>
+            <button type="submit" class="btn btn-primary">Ask</button>
+        </form>
+    </div>
+</body>
+</html>
