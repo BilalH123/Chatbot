@@ -1,7 +1,7 @@
 # Chatbot
 IT Support Chatbot that answers IT questions.
 
-#Summary
+# Summary
 This project answers users IT Questions when they submit them in the search bar.
 This chatbot can be implemented into websites or be used as a solo technology to answer IT Questions.
 
