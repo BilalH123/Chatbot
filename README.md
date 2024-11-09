@@ -28,7 +28,7 @@ Key Functionalities: Search Bar,
 
 -After this, you will need to copy and past the localhost url into a browser, whilst keeping the python file up and running.
 
--By pasting the url in the browserr, you will see a functional chatbot that you can use and communicate with.
+-By pasting the url in the browser, you will see a functional chatbot that you can use and communicate with.
 
 -To use the chatbot, simply enter a message in the textbox provided and you will recieve a response from the chatbot. The chatbot interface is inspired by the "bubble effect" used in messaging applications.
 
