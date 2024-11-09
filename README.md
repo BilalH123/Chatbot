@@ -1,5 +1,5 @@
 # Chatbot
-IT Support Chatbot that answers IT questions.
+IT Support Chatbot that answers Users IT questions.
 
 # Summary
 This project answers users IT Questions when they submit them in the search bar.
